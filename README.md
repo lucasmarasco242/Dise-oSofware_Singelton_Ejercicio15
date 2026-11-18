@@ -1,4 +1,4 @@
-Ejercicio 5 - Gestor Concurrente de Reservas de una Sala de Lectura
+Ejercicio 15 - Gestor Concurrente de Reservas de una Sala de Lectura
 
 Explicación del programa
 
